@@ -39,9 +39,8 @@ Install the required dependencies listed in requirements.txt.
 
 After setting up the environment, you can run the story generator using the following command:
 --> python story_generator.py
-## This will generate random Urdu sentences and stories based on the trained N-gram model
-
-## You can work further on this project to generate good urdu stories by adding more data to training and can add more best approaches.
+ This will generate random Urdu sentences and stories based on the trained N-gram model
+ You can work further on this project to generate good urdu stories by adding more data to training and can add more best approaches.
 
 ## How It Works
 The program first loads a CSV file (urdu_stories.csv) containing Urdu stories.
