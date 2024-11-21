@@ -27,10 +27,14 @@ This project is an **Urdu Story Generator** that uses N-gram models to generate 
 Create and activate the virtual environment.
 --> python -m venv venv
 --> source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+
+
 3. Install Dependencies:
 
 Install the required dependencies listed in requirements.txt.
 --> pip install -r requirements.txt
+
+
 4. Run the Story Generator:
 
 After setting up the environment, you can run the story generator using the following command:
